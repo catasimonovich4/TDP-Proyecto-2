@@ -1,0 +1,14 @@
+6 6
+M29
+T0
+B13
+RT-R4-R3
+
+B P O P B O
+P O B M P M
+G B G B P O
+M R B G B O
+G P P B P B
+B G O B G B
+
+

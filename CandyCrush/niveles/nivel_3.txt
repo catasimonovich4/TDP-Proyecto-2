@@ -1,0 +1,15 @@
+6 6
+M21
+T120
+G6-Z9
+RT-R3
+
+R R B Z G B
+R G O Z Z B
+G P G G O G
+R G O Z P B
+B Z O Z B Z
+R B Z G Z B
+
+
+ 

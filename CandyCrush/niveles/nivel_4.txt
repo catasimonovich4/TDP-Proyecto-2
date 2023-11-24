@@ -1,0 +1,13 @@
+6 6  
+M25
+T0
+Y10
+R4-R3
+ 
+R  R  JY G  JP B  
+JO JY G  O  G  JG 
+R  JB JP G  JO JB
+R  JO JR G  JG JO 
+Y  JG JY R  JP JY 
+B  JR G  Y  O  JG
+ 

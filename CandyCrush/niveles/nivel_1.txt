@@ -1,0 +1,15 @@
+6 6
+M29
+T0
+B12
+R3
+
+B P O P B O
+P O B O O G
+G B G G P O
+B O B O G P
+G P G P P B
+B G O P B B
+
+
+

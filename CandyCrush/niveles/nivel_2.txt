@@ -1,0 +1,14 @@
+6 6
+M22
+T0
+R9-Z8
+RL-R3
+
+G O G R O B
+P G R B B O
+B B O P P B
+R O R R G P
+B B O B Z Z 
+Z Z Z Z Z Z 
+
+
